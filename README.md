@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debdeep</h1>
 <h3 align="center">Enthusiast</h3>
- <video autoPlay loop > <source src="./videoplayback (online-video-cutter.com).mp4"  type="video/mp4" /></video>
+ <video autoPlay loop > <source src="videoplayback (online-video-cutter.com).mp4"  type="video/mp4" /></video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debdeep5-7-0-2&label=Profile%20views&color=0e75b6&style=flat" alt="debdeep5-7-0-2" /> </p>
 <p align="left"> <a href="https://twitter.com/debdeep434" target="blank"><img src="https://img.shields.io/twitter/follow/debdeep434?logo=twitter&style=for-the-badge" alt="debdeep434" /></a> </p>
 
